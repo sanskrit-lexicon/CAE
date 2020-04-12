@@ -1,0 +1,156 @@
+; Case 001: L=303, k1=aNga, #changes=2
+; aNga -> aNg
+old: <L>303<pc>005<k1>aNga<k2>aNga
+new: <L>303<pc>005<k1>aNg<k2>aNg
+;
+old: {#aNga#}¦ {#aNgati#} <vlex type="root"/> move.
+new: {#aNg#}¦ {#aNgati#} <vlex type="root"/> move.
+; -----------------------------------------------
+; Case 002: L=3614, k1=as, #changes=1
+; parAM -> parA
+old: (<ab>abl.</ab>); keep off, remove, destroy. <div n="p">{#parAM#} cast away, expose (a child);
+new: (<ab>abl.</ab>); keep off, remove, destroy. <div n="p">{#parA#} cast away, expose (a child);
+; -----------------------------------------------
+; Case 003: L=5700, k1=upacaritavya, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#upacaritavya#}¦ & {#upa°carya#} <vlex type="root"/> to be treated, served,
+new: {#upacaritavya#}¦ & {#upa°carya#} to be treated, served,
+; -----------------------------------------------
+; Case 004: L=6099, k1=U, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#U#}¦ & {#U/#} <vlex type="root"/> = 2 {#u#}.
+new: {#U#}¦ & {#U/#}  = 2 {#u#}.
+; -----------------------------------------------
+; Case 005: L=6309, k1=fd, #changes=1
+; f/rdati -> a/rdati
+old: {#fd#}¦ {#fdati#} {#f/rdati#} <vlex type="root"/> dissolve (intr.), pass away; stir (tr.),
+new: {#fd#}¦ {#fdati#} {#a/rdati#} <vlex type="root"/> dissolve (intr.), pass away; stir (tr.),
+; -----------------------------------------------
+; Case 006: L=7412, k1=kANkza, #changes=2
+; kANkza -> kANkz
+old: <L>7412<pc>115<k1>kANkza<k2>kANkza
+new: <L>7412<pc>115<k1>kANkz<k2>kANkz
+;
+old: {#kANkza#}¦ {#kANkzati#} {#kANkza°te#} <vlex type="root"/> desire, long for, strive
+new: {#kANkz#}¦ {#kANkzati#} {#kANkza°te#} <vlex type="root"/> desire, long for, strive
+; -----------------------------------------------
+; Case 007: L=8372, k1=kfz, #changes=1
+; sama -> sam
+old: withhold. <div n="p">{#sama#} draw together, contract; drag away, carry off. —
+new: withhold. <div n="p">{#sam#} draw together, contract; drag away, carry off. —
+; -----------------------------------------------
+; Case 008: L=9049, k1=Kan, #changes=2
+; uda -> ud, proda -> prod
+old: bury. <ab>C.</ab> {#KAnayati#}. <div n="p">— {#aBi#} turn up (the soil). <div n="p">{#uda#} root up,
+new: bury. <ab>C.</ab> {#KAnayati#}. <div n="p">— {#aBi#} turn up (the soil). <div n="p">{#ud#} root up,
+;
+old: extract, exterminate, destroy. <div n="p">{#proda#} & {#samud#} the same. <div n="p">{#ni#} bury,
+new: extract, exterminate, destroy. <div n="p">{#prod#} & {#samud#} the same. <div n="p">{#ni#} bury,
+; -----------------------------------------------
+; Case 009: L=9323, k1=garda, #changes=2
+; garda -> gard
+old: <L>9323<pc>150<k1>garda<k2>garda
+new: <L>9323<pc>150<k1>gard<k2>gard
+;
+old: {#garda#}¦ {#gardati#} <vlex type="root"/> exult.
+new: {#gard#}¦ {#gardati#} <vlex type="root"/> exult.
+; -----------------------------------------------
+; Case 010: L=9719, k1=gehadAha, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#gehadAha#}¦ & {#gehapati#} <vlex type="root"/> = {#gfhadAha#} & {#gfhapati#}.
+new: {#gehadAha#}¦ & {#gehapati#}  = {#gfhadAha#} & {#gfhapati#}.
+; -----------------------------------------------
+; Case 011: L=9956, k1=Ga, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: 1 {#Ga#}¦ {#GA#} <vlex type="root"/> (<ab>encl.</ab>) surely, indeed, even, at least; lays
+new: 1 {#Ga#}¦ {#GA#} (<ab>encl.</ab>) surely, indeed, even, at least; lays
+; -----------------------------------------------
+; Case 012: L=10081, k1=Ged, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#Ge/d#}¦ & {#Gem#} <vlex type="root"/> <ab>v.</ab> 1 {#Ga#}.
+new: {#Ge/d#}¦ & {#Gem#} <ab>v.</ab> 1 {#Ga#}.
+; -----------------------------------------------
+; Case 013: L=10190, k1=catasf, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#ca/tasf#}¦ {#catasf/#} <vlex type="root"/> <ab>v.</ab> {#catvAr#}.
+new: {#ca/tasf#}¦ {#catasf/#} <ab>v.</ab> {#catvAr#}.
+; -----------------------------------------------
+; Case 014: L=10347, k1=car, #changes=1
+;  This change NOT made.  (a/cCa -> acCa).  Removed the accent programmatically.
+; old: <ab>loc.</ab>). <div n="p">— {#a/cCa#} move towards (<ab>acc.</ab>). <div n="p">{#ati#} escape, go past (<ab>acc.</ab>),
+; new: <ab>loc.</ab>). <div n="p">— {#acCa#} move towards (<ab>acc.</ab>). <div n="p">{#ati#} escape, go past (<ab>acc.</ab>),
+; -----------------------------------------------
+; Case 015: L=10664, k1=cUrRaSas, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#cUrRaSas#}¦ & {#cUrRI@kf#} <vlex type="root"/> = {#cUrRay#}.
+new: {#cUrRaSas#}¦ & {#cUrRI#} <ab>w.</ab> {#kf#}  = {#cUrRay#}.
+; -----------------------------------------------
+; Case 016: L=11677, k1=wasat, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#wasat#}¦ {#wasiti#} & {#wAt#} <vlex type="root"/> (onomat.) crash!
+new: {#wasat#}¦ {#wasiti#} & {#wAt#} (onomat.) crash!
+; -----------------------------------------------
+; Case 017: L=11738, k1=takz, #changes=1, #extra_withs=1
+; #vi = apa#} -> {#vi#} = {#apa#}
+old: (<ab>abl.</ab>). <div n="p">{#nis#} shape or form. <div n="p">{#pra#} fashion, make. <div n="p">{#vi = apa#}. <div n="p">{#sam#} = <ab>S.</ab>
+new: (<ab>abl.</ab>). <div n="p">{#nis#} shape or form. <div n="p">{#pra#} fashion, make. <div n="p">{#vi#} = {#apa#}. <div n="p">{#sam#} = <ab>S.</ab>
+; -----------------------------------------------
+; Case 018: L=12590, k1=tfRavat, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#tfRavat#}¦ {#tfRI kf#} & {#tfRaM man#} <vlex type="root"/> = {#tfRay#}.
+new: {#tfRavat#}¦ {#tfRI kf#} & {#tfRaM man#} = {#tfRay#}.
+; -----------------------------------------------
+; Case 019: L=14683, k1=dOzmanta, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#dOzmanta#}¦ & {#dOzmanti#} <vlex type="root"/> <ab>v.</ab> <ab>seq.</ab>
+new: {#dOzmanta#}¦ & {#dOzmanti#} <ab>v.</ab> <ab>seq.</ab>
+; -----------------------------------------------
+; Case 020: L=15311, k1=DA, #changes=1
+; uda -> ud
+old: {#pratisamA#} adjust (the arrow), put in order, restore. <div n="p">{#uda#} shut up,
+new: {#pratisamA#} adjust (the arrow), put in order, restore. <div n="p">{#ud#} shut up,
+; -----------------------------------------------
+; Case 021: L=19580, k1=puza, #changes=3
+; puza -> puz
+old: <L>19580<pc>322<k1>puza<k2>puza
+new: <L>19580<pc>322<k1>puz<k2>puz
+;
+old: {#puza#}¦ {#pu/pyAta#} <vlex type="root"/> ({#pu/pyA°te, pupRAti#} & {#pozati#}), <ab>pp.</ab>
+new: {#puz#}¦ {#pu/zyAta#} <vlex type="root"/> ({#pu/zya°te, puzRAti#} & {#pozati#}), <ab>pp.</ab>
+;
+old: (<ab>instr.</ab>). <div n="p">—{#uda#} ({#utpuzRAti#}) nourish, make fat. <div n="p">{#upa#} = <ab>S.</ab>* - Cf.
+new: (<ab>instr.</ab>). <div n="p">—{#ud#} ({#utpuzRAti#}) nourish, make fat. <div n="p">{#upa#} = <ab>S.</ab>* - Cf.
+; -----------------------------------------------
+; Case 022: L=22543, k1=BaYja, #changes=2
+; BaYja -> BaYj
+old: <L>22543<pc>372<k1>BaYja<k2>BaYja
+new: <L>22543<pc>372<k1>BaYj<k2>BaYj
+;
+old: {#BaYja#}¦ {#Bana/kti#} <vlex type="root"/> <ab>pp.</ab> {#Bagna#} (<ab>q.v.</ab>) break, bend,
+new: {#BaYj#}¦ {#Bana/kti#} <vlex type="root"/> <ab>pp.</ab> {#Bagna#} (<ab>q.v.</ab>) break, bend,
+; -----------------------------------------------
+; Case 023: L=25098, k1=mUQaDI, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#mUQaDI#}¦ {#mUQa°budDi#} & {#mUQa°mati#} <vlex type="root"/> = {#mUQacetana#}.
+new: {#mUQaDI#}¦ {#mUQa°budDi#} & {#mUQa°mati#} = {#mUQacetana#}.
+; -----------------------------------------------
+; Case 024: L=25833, k1=yam, #changes=1
+; uda -> ud
+old: pull, stretch. <div n="p">{#uda#} lift up, raise (<ab>lit.</ab> & <ab>fig.</ab>); hold forth, offer,
+new: pull, stretch. <div n="p">{#ud#} lift up, raise (<ab>lit.</ab> & <ab>fig.</ab>); hold forth, offer,
+; -----------------------------------------------
+; Case 025: L=26321, k1=raGunATa, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#raGunATa#}¦ {#raGu°nAyaka#} & {#raGu°pati#} <vlex type="root"/> the chief of
+new: {#raGunATa#}¦ {#raGu°nAyaka#} & {#raGu°pati#} the chief of
+; -----------------------------------------------
+; Case 026: L=27642, k1=lup, #changes=1
+; uda -> ud
+old: disturbed. <div n="p">{#vyA#} break, destroy. <div n="p">{#uda#} & {#samud#} take out, pick up. <div n="p">{#pari#}
+new: disturbed. <div n="p">{#vyA#} break, destroy. <div n="p">{#ud#} & {#samud#} take out, pick up. <div n="p">{#pari#}
+; -----------------------------------------------
+; Case 027: L=34314, k1=sajyakarman, #changes=1
+; remove verb markup (<vlex type="root"/>) as this is not a verb
+old: {#sajyakarman#}¦ & {#sajyo@kf#} <vlex type="root"/> = {#sajjakarman#} & {#sajjI#}
+new: {#sajyakarman#}¦ & {#sajyo#} {#kf#} = {#sajjakarman#} & {#sajjI#}
+; -----------------------------------------------
