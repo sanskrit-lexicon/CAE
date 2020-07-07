@@ -4256,6 +4256,7 @@ daD:89899:verb:1:
 daDisya:89979:verb::
 daDyasya:89980:verb::
 daDIya:89989:verb::
+dan:90012.1:verb::
 dantapattra:90078:verb::
 danturaya:90208:verb::
 danv:90226:verb:1P:

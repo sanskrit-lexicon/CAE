@@ -4394,6 +4394,7 @@ daD:89899:root:1:
 daDisya:89979:nom::
 daDyasya:89980:nom::
 daDIya:89989:nom::
+dan:90012.1:root::
 dantapattra:90078:nom::
 danturaya:90208:nom::
 danv:90226:root:1P:
