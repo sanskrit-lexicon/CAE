@@ -59,7 +59,7 @@ map2mw_special = {
  'aNkay':'aNk',  # 
  'aNKay':'aNK',  # 
  'arTay':'arT',  # 
- 'avataMsay':'avataMs',  # prev
+ #'avataMsay':'avataMs',  # prev
  'avaDIray':'avaDIr',  # prev
  'iD':'inD',  # 
  'Ips':'Ap',  # desid.
@@ -83,7 +83,7 @@ map2mw_special = {
  'gfBay':'gfBAya',  # 
  'graB':'grah',  # 
  'glA':'glE',  # 
- 'culukay':'culukay',  # not mw. similar to culukIkf
+ #'culukay':'culukay',  # not mw. similar to culukIkf
  'cUrRay':'cUrR',  # 
  'Calay':'Cal',  # 
  'CA':'Co',  # 
@@ -101,7 +101,7 @@ map2mw_special = {
  'drAGay':'drAG',  # 
  'DyA':'DyE',  # 
  'DrAj':'Draj',  # 
- 'nigaqay':'nigaqaya',  # 
+ #'nigaqay':'nigaqaya',  # 
  'patay':'pat',  # causal
  #'patnIy':'patnIy',  # not mw. from patnI
  #'paty':'paty',  # not mw. from pati ?
@@ -129,7 +129,7 @@ map2mw_special = {
  'varRay':'varR',  # 
  'vasAy':'vas',  # ? causal
  'vAsay':'vas',  # causal
- 'virUpay':'virUpay',  # causal of virUp (not in mw)
+ #'virUpay':'virUpay',  # causal of virUp (not in mw)
  'vIray':'vIrAya',  # 
  'vfzaRy':'vfzAya',  # by sense and similarity
  'vyA':'vye',  # 

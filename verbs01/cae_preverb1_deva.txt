@@ -71,7 +71,7 @@
 01         उप        अव्                उपाव्                उपाव् yes उप+अव्
 02        प्र        अव्               प्राव्               प्राव् yes प्र+अव्
 ;
-;; Case 0027: L=3107, k1=अवतंसय्, k2=अवतंसय्, code=V, #upasargas=0, mw=अवतंस् (diff)
+;; Case 0027: L=3107, k1=अवतंसय्, k2=अवतंसय्, code=V, #upasargas=0, mw=?
 ;; Case 0028: L=3130, k1=अवधीरय्, k2=अवधीरय्, code=V, #upasargas=0, mw=अवधीर् (diff)
 ;; Case 0029: L=3444, k1=अश्, k2=अश्, code=V, #upasargas=4 (4/0), mw=अश् (same)
 01        अभि        अश्               अभ्यश्               अभ्यश् yes अभि+अश्
@@ -1153,7 +1153,7 @@
 02        परि     चुम्ब्            परिचुम्ब्            परिचुम्ब् yes परि+चुम्ब्
 ;
 ;; Case 0273: L=10644, k1=चुर्, k2=चुर्, code=V, #upasargas=0, mw=चुर् (same)
-;; Case 0274: L=10646, k1=चुलुकय्, k2=चुलुकय्, code=V, #upasargas=0, mw=चुलुकय् (same)
+;; Case 0274: L=10646, k1=चुलुकय्, k2=चुलुकय्, code=V, #upasargas=0, mw=?
 ;; Case 0275: L=10658, k1=चूर्, k2=चूर्, code=V, #upasargas=0, mw=चूर् (same)
 ;; Case 0276: L=10662, k1=चूर्णय्, k2=चूर्णय्, code=V, #upasargas=1 (1/0), mw=चूर्ण् (diff)
 01         अव    चूर्णय्            अवचूर्णय्             अवचूर्ण् yes अव+चूर्ण्
@@ -1997,7 +1997,7 @@
 ;; Case 0479: L=16298, k1=निक्ष्, k2=निक्ष्, code=V, #upasargas=1 (1/0), mw=निक्ष् (same)
 01         वि     निक्ष्             विनिक्ष्             विनिक्ष् yes वि+निक्ष्
 ;
-;; Case 0480: L=16307, k1=निगडय्, k2=निगडय्, code=V, #upasargas=0, mw=निगडय (diff)
+;; Case 0480: L=16307, k1=निगडय्, k2=निगडय्, code=V, #upasargas=0, mw=?
 ;; Case 0481: L=16381, k1=निद्, k2=निद्, code=V, #upasargas=1 (0/1), mw=निद् (same)
 01      प्रति       निद्            प्रतिनिद्            प्रतिनिद् no 
 ;
@@ -3683,7 +3683,7 @@
 ;; Case 0840: L=29893, k1=विमलय्, k2=विमलय्, code=V, #upasargas=0, mw=विमलय (diff)
 ;; Case 0841: L=29920, k1=विमुखय्, k2=विमुखय्, code=V, #upasargas=0, mw=विमुखय (diff)
 ;; Case 0842: L=29975, k1=विरलाय्, k2=विरलाय्, code=V, #upasargas=0, mw=विरलाय (diff)
-;; Case 0843: L=30014, k1=विरूपय्, k2=विरूपय्, code=V, #upasargas=0, mw=विरूपय् (same)
+;; Case 0843: L=30014, k1=विरूपय्, k2=विरूपय्, code=V, #upasargas=0, mw=?
 ;; Case 0844: L=30171, k1=विश्, k2=विश्, code=V, #upasargas=0, mw=विश् (same)
 ;; Case 0845: L=30181, k1=विशदय्, k2=विशदय्, code=V, #upasargas=0, mw=विशदय (diff)
 ;; Case 0846: L=30370, k1=विष्, k2=विष्, code=V, #upasargas=2 (2/0), mw=विष् (same)

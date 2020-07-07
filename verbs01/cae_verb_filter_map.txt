@@ -24,7 +24,7 @@
 ;; Case 0024: L=2871, k1=arTay, k2=arTay, code=V, mw=arT
 ;; Case 0025: L=2955, k1=arh, k2=arh, code=V, mw=arh
 ;; Case 0026: L=3062, k1=av, k2=av, code=V, mw=av
-;; Case 0027: L=3107, k1=avataMsay, k2=avataMsay, code=V, mw=avataMs
+;; Case 0027: L=3107, k1=avataMsay, k2=avataMsay, code=V, mw=?
 ;; Case 0028: L=3130, k1=avaDIray, k2=avaDIray, code=V, mw=avaDIr
 ;; Case 0029: L=3444, k1=aS, k2=aS, code=V, mw=aS
 ;; Case 0030: L=3445, k1=aS, k2=aS, code=V, mw=aS
@@ -271,7 +271,7 @@
 ;; Case 0271: L=10639, k1=cup, k2=cup, code=V, mw=cup
 ;; Case 0272: L=10641, k1=cumb, k2=cumb, code=V, mw=cumb
 ;; Case 0273: L=10644, k1=cur, k2=cur, code=V, mw=cur
-;; Case 0274: L=10646, k1=culukay, k2=culukay, code=V, mw=culukay
+;; Case 0274: L=10646, k1=culukay, k2=culukay, code=V, mw=?
 ;; Case 0275: L=10658, k1=cUr, k2=cUr, code=V, mw=cUr
 ;; Case 0276: L=10662, k1=cUrRay, k2=cUrRay, code=V, mw=cUrR
 ;; Case 0277: L=10671, k1=cft, k2=cft, code=V, mw=cft
@@ -477,7 +477,7 @@
 ;; Case 0477: L=16038, k1=nah, k2=nah, code=V, mw=nah
 ;; Case 0478: L=16121, k1=nAT, k2=nAT, code=V, mw=nAT
 ;; Case 0479: L=16298, k1=nikz, k2=nikz, code=V, mw=nikz
-;; Case 0480: L=16307, k1=nigaqay, k2=nigaqay, code=V, mw=nigaqaya
+;; Case 0480: L=16307, k1=nigaqay, k2=nigaqay, code=V, mw=?
 ;; Case 0481: L=16381, k1=nid, k2=nid, code=V, mw=nid
 ;; Case 0482: L=16458, k1=nibiqay, k2=nibiqay, code=V, mw=nibiqaya
 ;; Case 0483: L=16984, k1=niHSezay, k2=niHSezay, code=V, mw=niHSezaya
@@ -840,7 +840,7 @@
 ;; Case 0840: L=29893, k1=vimalay, k2=vimalay, code=V, mw=vimalaya
 ;; Case 0841: L=29920, k1=vimuKay, k2=vimuKay, code=V, mw=vimuKaya
 ;; Case 0842: L=29975, k1=viralAy, k2=viralAy, code=V, mw=viralAya
-;; Case 0843: L=30014, k1=virUpay, k2=virUpay, code=V, mw=virUpay
+;; Case 0843: L=30014, k1=virUpay, k2=virUpay, code=V, mw=?
 ;; Case 0844: L=30171, k1=viS, k2=viS, code=V, mw=viS
 ;; Case 0845: L=30181, k1=viSaday, k2=viSaday, code=V, mw=viSadaya
 ;; Case 0846: L=30370, k1=viz, k2=viz, code=V, mw=viz

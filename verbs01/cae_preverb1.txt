@@ -71,7 +71,7 @@
 01        upa         av                 upAv                 upAv yes upa+av
 02        pra         av                 prAv                 prAv yes pra+av
 ;
-;; Case 0027: L=3107, k1=avataMsay, k2=avataMsay, code=V, #upasargas=0, mw=avataMs (diff)
+;; Case 0027: L=3107, k1=avataMsay, k2=avataMsay, code=V, #upasargas=0, mw=?
 ;; Case 0028: L=3130, k1=avaDIray, k2=avaDIray, code=V, #upasargas=0, mw=avaDIr (diff)
 ;; Case 0029: L=3444, k1=aS, k2=aS, code=V, #upasargas=4 (4/0), mw=aS (same)
 01        aBi         aS                aByaS                aByaS yes aBi+aS
@@ -1153,7 +1153,7 @@
 02       pari       cumb             paricumb             paricumb yes pari+cumb
 ;
 ;; Case 0273: L=10644, k1=cur, k2=cur, code=V, #upasargas=0, mw=cur (same)
-;; Case 0274: L=10646, k1=culukay, k2=culukay, code=V, #upasargas=0, mw=culukay (same)
+;; Case 0274: L=10646, k1=culukay, k2=culukay, code=V, #upasargas=0, mw=?
 ;; Case 0275: L=10658, k1=cUr, k2=cUr, code=V, #upasargas=0, mw=cUr (same)
 ;; Case 0276: L=10662, k1=cUrRay, k2=cUrRay, code=V, #upasargas=1 (1/0), mw=cUrR (diff)
 01        ava     cUrRay            avacUrRay              avacUrR yes ava+cUrR
@@ -1997,7 +1997,7 @@
 ;; Case 0479: L=16298, k1=nikz, k2=nikz, code=V, #upasargas=1 (1/0), mw=nikz (same)
 01         vi       nikz               vinikz               vinikz yes vi+nikz
 ;
-;; Case 0480: L=16307, k1=nigaqay, k2=nigaqay, code=V, #upasargas=0, mw=nigaqaya (diff)
+;; Case 0480: L=16307, k1=nigaqay, k2=nigaqay, code=V, #upasargas=0, mw=?
 ;; Case 0481: L=16381, k1=nid, k2=nid, code=V, #upasargas=1 (0/1), mw=nid (same)
 01      prati        nid             pratinid             pratinid no 
 ;
@@ -3683,7 +3683,7 @@
 ;; Case 0840: L=29893, k1=vimalay, k2=vimalay, code=V, #upasargas=0, mw=vimalaya (diff)
 ;; Case 0841: L=29920, k1=vimuKay, k2=vimuKay, code=V, #upasargas=0, mw=vimuKaya (diff)
 ;; Case 0842: L=29975, k1=viralAy, k2=viralAy, code=V, #upasargas=0, mw=viralAya (diff)
-;; Case 0843: L=30014, k1=virUpay, k2=virUpay, code=V, #upasargas=0, mw=virUpay (same)
+;; Case 0843: L=30014, k1=virUpay, k2=virUpay, code=V, #upasargas=0, mw=?
 ;; Case 0844: L=30171, k1=viS, k2=viS, code=V, #upasargas=0, mw=viS (same)
 ;; Case 0845: L=30181, k1=viSaday, k2=viSaday, code=V, #upasargas=0, mw=viSadaya (diff)
 ;; Case 0846: L=30370, k1=viz, k2=viz, code=V, #upasargas=2 (2/0), mw=viz (same)
