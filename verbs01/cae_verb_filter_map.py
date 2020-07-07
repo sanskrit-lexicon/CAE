@@ -87,7 +87,7 @@ map2mw_special = {
  'cUrRay':'cUrR',  # 
  'Calay':'Cal',  # 
  'CA':'Co',  # 
- 'jar':'jar',  # 
+ 'jar':'jf',  # 
  'jiGAMs':'han',  # han desid.
  'jugups':'gup',  # desid. gup
  'jYIps':'jYA',  # desid. jYA

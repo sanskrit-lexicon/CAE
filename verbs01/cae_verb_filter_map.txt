@@ -291,7 +291,7 @@
 ;; Case 0291: L=10957, k1=jan, k2=jan, code=V, mw=jan
 ;; Case 0292: L=11030, k1=jap, k2=jap, code=V, mw=jap
 ;; Case 0293: L=11040, k1=jaB, k2=jaB, code=V, mw=jaB
-;; Case 0294: L=11086, k1=jar, k2=jar, code=V, mw=jar
+;; Case 0294: L=11086, k1=jar, k2=jar, code=V, mw=jf
 ;; Case 0295: L=11181, k1=jalp, k2=jalp, code=V, mw=jalp
 ;; Case 0296: L=11198, k1=jas, k2=jas, code=V, mw=jas
 ;; Case 0297: L=11331, k1=ji, k2=ji, code=V, mw=ji

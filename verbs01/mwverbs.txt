@@ -3879,6 +3879,7 @@ granTilIBU:68538:gati::granTilI+BU
 granTIBU:68540:gati::granTI+BU
 graT:68541:root:1Ā:
 granT:68541.1:root:1Ā:
+graB:68545:root::
 gras:68546:genuineroot:1P,1Ā:
 grAsapAtrIkf:68581.1:gati:P:grAsa+pAtrI+kf
 grAsIkf:68589:gati::grAsI+kf
@@ -4422,7 +4423,7 @@ dAmalihya:91437:nom:P:
 dAn:91610:root:1P,1Ā,10P,10Ā:
 dAy:91644:root:1Ā:
 dAruRAya:91766:nom:Ā:
-dAvadahanajvAlAkalApaya:91840:nom:Ā:
+dAvadahanajvAlAkalApAya:91840:nom:Ā:
 dAS:91851:genuineroot:1P,1Ā,2,5P:
 dAs:91919:root:1P,1Ā,5P:
 dAsAya:91963:nom:PĀ:
@@ -7526,6 +7527,7 @@ ru:178213:genuineroot:2P:
 ruvaRya:178226:nom:P:
 ru:178231:genuineroot:1Ā:
 ruMS:178234:root:1,10P:
+ruMz:178235:root::
 ruc:178244:genuineroot:1Ā,1P:
 ruj:178446:genuineroot:6P,10:
 rujAya:178486:nom:Ā:
@@ -8457,6 +8459,7 @@ vyac:208354:genuineroot:6P,3:
 vyac:208360:pre:PĀ:vi+ac
 vyaYc:208360.1:gati:PĀ:vy+aYc
 vyaj:208362:pre:P:vi+aj
+vyaj:208364:root::
 vyajanIkf:208373:gati:P:vyajanI+kf
 vyajanIBU:208374:gati:P:vyajanI+BU
 vyaYj:208378:pre:PĀ:vi+aYj
@@ -8700,6 +8703,7 @@ vrIq:210765:genuineroot:1Ā,4P,10P:
 vrIs:210779:root:0:
 vruq:210816:root:6P:
 vrUs:210819:root:1,10P:
+vlag:210821:root::
 vlI:210822:genuineroot:9P:
 blI:210822.1:root:9P:
 vlekz:210826:root:0:
@@ -8879,6 +8883,7 @@ SoRIkf:221522:gati:P:SoRI+kf
 SoBAya:221655:nom:Ā:
 SOw:221763:root:1P:
 SOq:221773:root:0:
+Scand:221941:root::
 Scam:221943:root::
 Scar:221944:root:0:
 Scut:221945:genuineroot:1P:
@@ -8918,6 +8923,7 @@ SrIkaRWakaRWIya:222882:nom:P:
 SrIKaRqatamAlapattra:222949:nom:P:
 SrIv:223391:root::
 Sru:223393:genuineroot:5P,5Ā:
+Sruz:223678:root::
 Srek:223689:root::
 SrE:223800:root:0:
 SroR:223801:root:1P:
@@ -10116,6 +10122,7 @@ sah:240101:root:4P:
 sahArTIBU:240371:gati:P:sahArTI+BU
 sahAyIBU:240427:gati:P:sahAyI+BU
 sahasrAyuDIya:240796:nom:P:
+sA:240851:root::
 sAkz:241011:root:1P:
 sAkzAtkf:241028:gati:P:sAkzAt+kf
 sAkzAdBU:241037:gati:P:sAkzAd+BU
@@ -10168,6 +10175,7 @@ simB:244933.1:root:0:
 simasimAya:244938:root:0Ā:
 simisimAya:244939:root:0Ā:
 siv:244996:genuineroot:4P:
+sI:245038:root:0:
 sIk:245095:root:0:
 sImantaya:245156:nom:P:
 su:245236:root:1P,1Ā:
@@ -10306,6 +10314,7 @@ sTirIkf:255841:gati:P:sTirI+kf
 sTirIBU:255843:gati:P:sTirI+BU
 sTir:255900:root:1P:
 sTuq:255907:root:6P:
+sTU:255910:root::
 sTavirAya:255935:nom:Ā:
 sTUl:256003:root:10Ā,10P:
 snas:256198:root:0:
@@ -10382,6 +10391,7 @@ sru:257621:genuineroot:1P:
 srOGnIya:257738:nom:Ā:
 srucaya:257761:nom:P:
 srucya:257765:nom:P:
+sruh:257769:root::
 srek:257770:root:1Ā:
 srE:257772:root:0:
 svajanaya:257872:nom:P:

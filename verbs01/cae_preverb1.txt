@@ -1230,7 +1230,7 @@
 03        sam        jap               saMjap               saMjap yes sam+jap
 ;
 ;; Case 0293: L=11040, k1=jaB, k2=jaB, code=V, #upasargas=0, mw=jaB (same)
-;; Case 0294: L=11086, k1=jar, k2=jar, code=V, #upasargas=0, mw=jar (same)
+;; Case 0294: L=11086, k1=jar, k2=jar, code=V, #upasargas=0, mw=jf (diff)
 ;; Case 0295: L=11181, k1=jalp, k2=jalp, code=V, #upasargas=6 (5/1), mw=jalp (same)
 01        aBi       jalp              aBijalp              aBijalp yes aBi+jalp
 02        upa       jalp              upajalp              upajalp yes upa+jalp
