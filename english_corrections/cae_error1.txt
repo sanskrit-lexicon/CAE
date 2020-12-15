@@ -1,15 +1,22 @@
 95:akfpaRa:unquerulous: OK
 ; probably archaic
-113:akroDa:impassionate:
-123:akzatayoni:vulvam:
-123:akzatayoni:integram:
+113:akroDa:impassionate: OK
+; archaic, synonym "dispassionate"
+123:akzatayoni:vulvam: OK
+; we see the phrase in Latin "<ab>lit.</ab> vulvam integram habens". Maybe instead of "lit." - should be "lat."
+123:akzatayoni:integram: OK
+; connected with the previous case
 123:akzatayoni:habens:
-304:aNga:sollicitation:
-506:aticCandas:hypermetrical:
-631:atizita:underbound:
-720:adakziRa:undexterous:
-841:aDarottara:topsyturvy:
-1037:anantara:adjoing:
+304:aNga:sollicitation: solicitation
+; scan error
+506:aticCandas:hypermetrical: OK
+631:atizita:underbound: OK
+; I am not sure
+720:adakziRa:undexterous: OK
+841:aDarottara:topsyturvy: topsy-turvy
+; scan error
+1037:anantara:adjoing: adjoining
+; scan error
 1154:anavasTA:regressus:
 1154:anavasTA:infinitum:
 1356:anItijYa:indiscrect:
