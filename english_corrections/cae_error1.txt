@@ -17,55 +17,88 @@
 ; scan error
 1037:anantara:adjoing: adjoining
 ; scan error
-1154:anavasTA:regressus:
-1154:anavasTA:infinitum:
-1356:anItijYa:indiscrect:
-1365:anu:distrib:
-1422:anutsuka:unpresumptuous:
-1562:anuspazwa:seeh:
-1678:antaHSleza:interlacement:
-1716:anDas:Somaplant:
-1967:aparvan:Parvanor:
-2040:api:quidem:
-2139:apratIta:unattackable:
-2144:apraDAna:subord:
-2317:aBipluta:suffereing:
-2863:arTatas:intruth:
-2873:arTavattA:significancy:
-2899:arDakowI:koti:
-3046:alpabudDa:sarcely:
-3131:avaDUta:sparned:
-3146:avanejana:washwater:
-3160:avaBaNga:breakiNg:
-3160:avaBaNga:splittiNg:
-3600:azwAdaSaDA:eighteenfold:
-3787:asurya:demonlike:
-4031:Agantavya:veniendum:
-4034:Agantf:venturus:
-4035:Agama:knowl:
-4051:AgrayaRa:firstfruits:
-4628:Alocana:seing:
-4679:Avftta:sidewards:
-4756:ASreza:embracer:
-4911:iti:endeth:
-5057:izwakAmaduh:wondercow:
-5106:IraRa:sqeezing:
-5139:IzA:thills:
-5218:ucCfNKala:uYchained:
-5283:utkarza:ascendency:
-5423:utsikta:overstrained:
-5767:upapArSva:shoulderblade:
-5922:upAdAna:appropiating:
-5927:upADyAya:subteacher:
-6042:ullaNGana:leapiNg:
-6042:ullaNGana:passiNg:
-6225:fgyajuz:Rigand:
-6244:fju:nonest:
-6282:ftAvfD:holyminded:
-6388:ekapad:imcomplete:
-6453:ekaSaPa:solidungulous:
-6476:ekANga:siNgle:
-6490:ekAnta:lonelines:
+1154:anavasTA:regressus: OK (philosophical term "regressus in infinitum")
+1154:anavasTA:infinitum: OK (philosophical term "regressus in infinitum")
+1356:anItijYa:indiscrect: indiscreet
+; scan error
+1365:anu:distrib: OK (distrib.)
+1422:anutsuka:unpresumptuous: OK
+1562:anuspazwa:seeh: seen
+; scan error
+1678:antaHSleza:interlacement: OK
+1716:anDas:Somaplant: Soma plant
+; scan error
+1967:aparvan:Parvanor: Parvan- or
+2040:api:quidem: OK (Latin word)
+2139:apratIta:unattackable: OK
+2144:apraDAna:subord: OK (from subordinate)
+2317:aBipluta:suffereing: suffering
+; scan error
+2863:arTatas:intruth: in truth
+; scan error
+2873:arTavattA:significancy: OK
+; possible to use "significance"
+2899:arDakowI:koti: OK (Indian numbering system)
+3046:alpabudDa:sarcely: scarcely
+; scan error
+3131:avaDUta:sparned: spurned
+; scan error
+3146:avanejana:washwater: wash water
+; scan error
+3160:avaBaNga:breakiNg: breaking
+; scan error
+3160:avaBaNga:splittiNg: splitting
+; scan error
+3600:azwAdaSaDA:eighteenfold: OK
+3787:asurya:demonlike: OK
+4031:Agantavya:veniendum: OK (Latin word)
+; maybe to add that this word is Latin and to write translation - "what will come"
+4034:Agantf:venturus: OK (Latin word)
+; maybe to add that this word is Latin and to write translation - "coming, arrival"
+4035:Agama:knowl: knowledge
+; scan error
+4051:AgrayaRa:firstfruits: first fruits
+; scan error
+4628:Alocana:seing: seeing
+; scan error
+4679:Avftta:sidewards: OK
+; archaic, modern synonym "sideways"
+4756:ASreza:embracer: OK
+4911:iti:endeth: OK
+; archaic
+5057:izwakAmaduh:wondercow: wonder cow
+; scan error
+5106:IraRa:sqeezing: squeezing
+; scan error
+5139:IzA:thills: OK
+5218:ucCfNKala:uYchained: unchained
+; scan error
+5283:utkarza:ascendency: OK
+; synonym "ascendancy"
+5423:utsikta:overstrained: OK
+5767:upapArSva:shoulderblade: shoulder blade
+; scan error
+5922:upAdAna:appropiating: appropriating
+; scan error
+5927:upADyAya:subteacher: sub teacher
+; scan error. I suppose should be 2 words (sub teacher) - abbreviated name from "substitute teacher"
+6042:ullaNGana:leapiNg: leaping
+; scan error
+6042:ullaNGana:passiNg: passing
+; scan error
+6225:fgyajuz:Rigand: Rig- and
+6244:fju:nonest: honest
+; scan error
+6282:ftAvfD:holyminded: holy-minded
+; scan error
+6388:ekapad:imcomplete: incomplete
+; scan error
+6453:ekaSaPa:solidungulous: OK
+; synonym "solidungulate"
+6476:ekANga:siNgle: single
+; scan error
+6490:ekAnta:lonelines: loneliness
+; scan error
 6723:Okza:taurine:
 6753:OdgAtra:Udgatr:
 6758:OdBidya:victoriousness:
