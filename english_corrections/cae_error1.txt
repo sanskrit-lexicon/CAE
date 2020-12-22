@@ -17,6 +17,7 @@
 ; scan error
 1037:anantara:adjoing: adjoining
 ; scan error
+; Batch 2
 1154:anavasTA:regressus: OK (philosophical term "regressus in infinitum")
 1154:anavasTA:infinitum: OK (philosophical term "regressus in infinitum")
 1356:anItijYa:indiscrect: indiscreet
@@ -99,106 +100,147 @@
 ; scan error
 6490:ekAnta:lonelines: loneliness
 ; scan error
-6723:Okza:taurine:
-6753:OdgAtra:Udgatr:
-6758:OdBidya:victoriousness:
-6778:OpAsana:mestic:
-6942:kad:abnormity:
-6954:kadalIgfha:Kadali:
-6970:kanizka:Indoscythic:
-7016:kapAla:cotyla:
-7020:kapAlin:seet:
-7164:karRAwakalaha:Karnatic:
-7339:kalyARasUcaka:fortume:
-7397:kAkatAlIya:palmfruit:
-7426:kAYcanamAlA:Goldgarland:
-7455:kAtantra:Katantra:
-7484:kApileyabABrava:Kapileyas:
-7512:kAmandakI:Budhhistic:
-7631:kAryAntarasaciva:plaisir:
-7688:kAlasarpa:coluber:
-7725:kASmIra:kacmira:
-7776:kiMnarakaRWa:Kimnara:
-7804:kirAta:mountaintribe:
-7805:kirAtArjunIya:Kirata:
-7827:kIkasa:vertebre:
-7830:kIwa:fireworm:
-7855:kIlAla:Amrit:
-7981:kumAravana:Kumaras:
-8104:kuvid:indir:
-8112:kuSalapraSna:wellfare:
-8211:kUrcatA:beardedness:
-8236:kfkara:patridge:
-8335:kfdanta:Krt:
-8353:kfpIwa:underwood:
-8372:kfz:affict:
-8563:kOlitara:Cambara:
-8593:kOsumBa:safflor:
-8703:krUra:bloodshedding:
-8759:kvaTana:decocting:
-8839:kzAra:alcali:
-8884:kzIravfkza:milktree:
-9140:KyA:outvie:
-9177:gaRaka:astrologue:
-9209:gata:divulgation:
-9299:gamya:understod:
-9399:gA:intonate:
-9400:gANga:Bhisma:
-9420:gATin:Vicvamitra:
-9432:gAnDAra:Gandharis:
-9800:gomfga:Gavaens:
-9825:goSIrza:cowhead:
-9951:glA:loth:
-10070:GftAcI:greazy:
-10118:cakragoptf:trabant:
-10215:caturdaSaDA:fourteenfold:
-10252:catuzpaTa:eross:
-10268:catvAr:dite:
-10295:candraniBAnanA:moonlike:
-10417:cAYcalya:iYconstaYcy:
-10484:ci:sacrific:
-10734:cOraSaNkin:feariNg:
-10745:cyu:atter:
-10855:Cfd:spue:
-10922:jaYjaRA:glitteriNg:
-10958:jana:indiv:
-11034:japayajYa:consistiNg:
-11047:jambudvIpa:roseapple:
-11055:jamBya:frontor:
-11090:jaraRyA:decrepitade:
-11102:jarAyu:chorion:
-11285:jAmAtf:sonor:
-11434:jIvita:subistence:
-11599:jyezWasAmaga:Jyesthasaman:
-11731:taka:demin:
-11956:tap:listress:
-12003:tam:lauguish:
-12182:tApa:affiction:
-12195:tApya:marcasite:
-12412:tu:concess:
-12446:tumula:rumult:
-12748:tya:defin:
-12788:tras:affright:
-13077:tvazwf:workmann:
-13148:dakziRapavana:wird:
-13219:daRqavyUha:arraging:
-13325:damUnas:Savitr:
-13483:dA:partit:
-13483:dA:oack:
-13519:dAna:rutfluid:
-13550:dAMpatya:conjugality:
-13610:dASArha:Dacarhas:
-13810:dIpana:kinding:
-13952:durudgITa:Udgitha:
-13991:durjAta:illborn:
-14022:durDI:weakor:
-14134:durvivAha:mesalliance:
-14248:dUta:gobetween:
-14349:dfzwa:knowledged:
-14565:deSInAmamAlA:provinicial:
-14942:dvitIya:accusativ:
-15264:DarmAtman:piousminded:
-15454:Dur:earriage:
+
+; Batch 3
+6723:Okza:taurine: OK
+; synonym "bovine"
+6753:OdgAtra:Udgatr: OK (Vedic priest)
+6758:OdBidya:victoriousness: OK
+6778:OpAsana:mestic: domestic
+; scan error
+6942:kad:abnormity: OK
+; archaic, a modern form is "abnormality"
+6954:kadalIgfha:Kadali: OK (tree)
+6970:kanizka:Indoscythic: Indo-Scythic
+; scan error
+7016:kapAla:cotyla: OK (anatomie - a cavity that resembles a cup)
+7020:kapAlin:seet: sect
+7164:karRAwakalaha:Karnatic: Carnatic
+; scan error
+7339:kalyARasUcaka:fortume: fortune
+; scan error
+7397:kAkatAlIya:palmfruit: palm-fruit
+; scan error
+7426:kAYcanamAlA:Goldgarland: Gold-garland
+7455:kAtantra:Katantra: OK (grammar)
+7484:kApileyabABrava:Kapileyas: OK (Indian ancient family)
+7512:kAmandakI:Budhhistic: Buddhistic
+; scan error
+7631:kAryAntarasaciva:plaisir: OK (French term)
+7688:kAlasarpa:coluber: OK (coluber naga - king of snakes, the black and most poisonous variety of the snake)
+7725:kASmIra:kacmira: Kasmira
+7776:kiMnarakaRWa:Kimnara: OK (mythological creature)
+; alternative spelling "Kinnara"
+7804:kirAta:mountaintribe: mountain-tribe
+7805:kirAtArjunIya:Kirata: OK (epic poem  - Of Arjuna and the Kirata)
+7827:kIkasa:vertebre: vertebra
+; scan error
+7830:kIwa:fireworm: OK (worm)
+7855:kIlAla:Amrit: OK (nectar, ambrosia)
+7981:kumAravana:Kumaras: Kumara's
+8104:kuvid:indir: OK (indir. questions)
+8112:kuSalapraSna:wellfare: welfare
+; scan error
+8211:kUrcatA:beardedness: OK
+8236:kfkara:patridge: OK (bird)
+8335:kfdanta:Krt: OK (suffix)
+8353:kfpIwa:underwood: OK
+; synonym "undergrowth"
+8372:kfz:affict: afflict
+8563:kOlitara:Cambara: OK (demon)
+8593:kOsumBa:safflor: safflower
+; scan error
+8703:krUra:bloodshedding: OK
+8759:kvaTana:decocting: OK
+8839:kzAra:alcali: alkali
+; scan error
+8884:kzIravfkza:milktree: milk-tree
+; scan error
+9140:KyA:outvie: OK
+; archaic
+9177:gaRaka:astrologue: astrologer
+; scan error
+9209:gata:divulgation: OK
+9299:gamya:understod: understood
+; scan error
+9399:gA:intonate: OK
+; synonym "intone"
+9400:gANga:Bhisma: OK (name)
+; also "Bhishma"
+9420:gATin:Vicvamitra: Vishvamitra
+9432:gAnDAra:Gandharis: OK (tribe)
+9800:gomfga:Gavaens: Gavaeus
+9825:goSIrza:cowhead: cow-head
+9951:glA:loth: OK
+; more common spelling is "loath"
+10070:GftAcI:greazy: greasy
+; scan error
+10118:cakragoptf:trabant: satellite
+; scan error - probably. trabant is a German word transleted as "satellite"
+10215:caturdaSaDA:fourteenfold: OK
+10252:catuzpaTa:eross: crossway
+; scan error
+10268:catvAr:dite: dice
+10295:candraniBAnanA:moonlike: OK
+10417:cAYcalya:iYconstaYcy: inconstancy
+10484:ci:sacrific: OK (sacrific. altar)
+10734:cOraSaNkin:feariNg: fearing
+10745:cyu:atter: after
+10855:Cfd:spue: OK
+; archaic, more common form is "spew"
+10922:jaYjaRA:glitteriNg: glittering
+10958:jana:indiv: OK (collect. or indiv. mg)
+11034:japayajYa:consistiNg: consisting
+11047:jambudvIpa:roseapple: rose-apple
+11055:jamBya:frontor: front- or
+11090:jaraRyA:decrepitade: decrepitude
+; scan error
+11102:jarAyu:chorion: OK (membrane of embrio)
+11285:jAmAtf:sonor: son- or
+11434:jIvita:subistence: subsistence
+; scan error
+11599:jyezWasAmaga:Jyesthasaman: OK (song)
+11731:taka:demin: demin.
+; from - diminutive. Also in cae.txt in L 11731 I corrected one symbol. According to the scan, I deleted "," between "pron." and "stem"
+11956:tap:listress: distress
+; in the scan letter "d" is almost invisible
+12003:tam:lauguish: languish
+12182:tApa:affiction: affliction
+12195:tApya:marcasite: OK (semiprecious stone)
+12412:tu:concess: OK (concess. sent.)
+12446:tumula:rumult: tumult
+12748:tya:defin: OK (defin. article)
+12788:tras:affright: OK
+13077:tvazwf:workmann: workman
+; scan error
+13148:dakziRapavana:wird: wind
+; scan error
+13219:daRqavyUha:arraging arranging
+; scan error
+13325:damUnas:Savitr: OK (god)
+13483:dA:partit: OK (from partitive)
+13483:dA:oack: back
+13519:dAna:rutfluid: rut-fluid
+13550:dAMpatya:conjugality: OK
+; synonym "connubiality"
+13610:dASArha:Dacarhas: Dasarhas
+13810:dIpana:kinding: kindling
+; scan error
+13952:durudgITa:Udgitha: OK
+13991:durjAta:illborn: ill- born
+; the scan has error in this line. Should be "." after "lit"
+14022:durDI:weakor: weak- or
+14134:durvivAha:mesalliance: OK
+14248:dUta:gobetween: go-between
+14349:dfzwa:knowledged: OK
+14565:deSInAmamAlA:provinicial: provincial
+14942:dvitIya:accusativ: accusative
+; scan error
+15264:DarmAtman:piousminded: pious-minded
+15454:Dur:earriage: carriage
+; In the scan letter "c" looks almost like "e"
+
+
 15462:DU:raff:
 15484:DUmay:darkenend:
 15747:nada:bellower:
