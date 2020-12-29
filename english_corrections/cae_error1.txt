@@ -128,7 +128,7 @@
 ; scan error
 7631:kAryAntarasaciva:plaisir: OK (French term)
 7688:kAlasarpa:coluber: OK (coluber naga - king of snakes, the black and most poisonous variety of the snake)
-7725:kASmIra:kacmira: Kasmira
+7725:kASmIra:kacmira: Kaśmīra
 7776:kiMnarakaRWa:Kimnara: OK (mythological creature)
 ; alternative spelling "Kinnara"
 7804:kirAta:mountaintribe: mountain-tribe
@@ -142,7 +142,7 @@
 8112:kuSalapraSna:wellfare: welfare
 ; scan error
 8211:kUrcatA:beardedness: OK
-8236:kfkara:patridge: OK (bird)
+8236:kfkara:patridge: partridge
 8335:kfdanta:Krt: OK (suffix)
 8353:kfpIwa:underwood: OK
 ; synonym "undergrowth"
@@ -241,144 +241,192 @@
 ; In the scan letter "c" looks almost like "e"
 
 
-15462:DU:raff:
-15484:DUmay:darkenend:
-15747:nada:bellower:
-15772:nanA:fam:
-15830:nam:cerebralize:
-15901:naravAhin:palankin:
-16025:nazwAsu:inaminate:
-16042:nahuzya:Nahusa:
-16133:nAD:supplex:
-16473:nimittakAraRa:causa:
-16473:nimittakAraRa:efficiens:
-16556:nirayaRa:egression:
-16587:nirAgAra:shelterless:
-16730:nirnAsa:snubnosed:
-16888:nivanA:adown:
-17011:nizeDa:probition:
-17349:nezwra:Nestr:
-17374:nEmizIya:Naimisa:
-17382:nErukta:etymogically:
-17385:nErganDya:inodorousness:
-17440:nyaNga:somethiNg:
-17440:nyaNga:cliNgiNg:
-17440:nyaNga:adheriNg:
-17443:nyaYcana:hidiNg:
-17465:nyAsaDArin:depositary:
-17492:pakzadvAra:sideor:
-17736:patAkin:flagbearer:
-17814:pad:insruction:
-17814:pad:reddere:
-17924:payoDara:wateror:
-18036:parAjizRu:succumbent:
-18140:pariRadDa:encirled:
-18143:pariRAma:od:
-18207:paripUta:purifed:
-18400:parisrAva:fluxion:
-18484:parRamaya:Palaca:
-18527:paryuzita:nightflat:
-18552:parvan:Caturmasya:
-18554:parvasaMDi:newand:
-18703:pAkya:cookable:
-18790:pAtaYjala:PataYjali:
-18954:pAraMparya:intermediation:
-18997:pArTa:Panduids:
-19582:puzkarAkza:lotusor:
-19712:pUrvaka:ealier:
-19906:pfzWya:packor:
-19954:pEppalAda:Pippalada:
-20004:pOtinAsikya:stencn:
-20151:pracAra:playor:
-20258:pratardana:destoyer:
-20330:pratipakza:rivality:
-20393:pratimuKa:epitasis:
-20535:pratyaBivAda:regreet:
-20575:pratyASvAsana:recomforting:
-21102:prastara:stramentum:
-21463:prItimant:Priti:
-21533:prezya:manamp:
-22070:bAhupASa:armfetter:
-22083:bAhulatA:armcreeper:
-22105:bindu:Anusvara:
-22135:bIja:seedcorn:
-22661:BallUka:voung:
-22691:Bavitavya:pred:
-23079:BUtasAkzin:Allseer:
-23180:BUriSfNga:manyor:
-23283:BogAy:ringle:
-23317:BOrja:birchen:
-23325:Bram:fasely:
-23517:maRqalita:ringled:
-23562:matsara:exhilarater:
-23782:manas:excogitation:
-23810:manu:suppositious:
-23905:mantrADirAja:Vetala:
-24001:mayu:Kimpurusa:
-24046:marqitf:pitier:
-24130:masfRay:smoothen:
-24183:mahAgala:longor:
-24361:mahASaya:magnahimous:
-24468:mA:optative:
-24468:mA:prohib:
-24679:mArakata:smaragdine:
-24832:miT:altercate:
-24897:mI:recipr:
-24977:muKendu:moondisk:
-24998:muc:pourforth:
-25085:muh:ert:
-25113:mUrC:strenghten:
-25128:mUla:neighbourhoud:
-25153:mUzikaSAvaka:mousey:
-25370:merusarzapa:mustardseed:
-25441:modaka:smeetmeat:
-25507:mlA:langish:
-25546:yaj:Prayaja:
-25774:yaTAsaNgam:accordiNg:
-25833:yam:excercise:
-25911:yaSasvant:glourious:
-26105:yuj:thill:
-26109:yuYj:yokefellow:
-26168:yena:quod:
-26197:yogISvara:Yajnavalkya:
-26347:raNG:raNGate:
-26604:ramaRa:serpentmaid:
-26620:ramBoru:plantainlike:
-26744:rANkava:beloNgiNg:
-27010:rikTin:bequeather:
-27078:ruj:dislimb:
-27105:ruD:shutup:
-27105:ruD:withold:
-27396:laNGanIya:transgressible:
-27461:laya:hebetating:
-27538:lApu:insrument:
-27574:liKana:cratching:
-27696:loka:splace:
-27992:vad:oversound:
-27992:vad:overspeak:
-28031:vaDUyu:uxurious:
-28035:vaDya:scape:
-28039:vaDyaparyAya:excecute:
-28209:vara:fullfilled:
-28262:varuRa:encompasser:
-28335:vartani:felloe:
-28642:vAkya:periphasis:
-28699:vAja:Rbhus:
-28821:vAma:sheass:
-28892:vArAha:boarish:
-28918:vArivAha:raingod:
-29031:vAsAtya:dawny:
-29075:viMSa:twentifold:
-29199:vikzepaSakti:projective:
-29284:vicikitsya:dubitable:
-29477:vidUzaka:defilling:
-29801:viboDana:awaker:
-29801:viboDana:rouser:
-29823:viBAvana:rhetor:
-29925:vimUQa:incertain:
-30047:vilambita:laggering:
-30395:vizaDara:venomholder:
-30463:vizkamBaka:supportiNg:
+Batch 4
+15462:DU:raff: OK
+; alternative form is 'raffe"
+15484:DUmay:darkenend: darkened
+; scan error
+15747:nada:bellower: OK
+15772:nanA:fam: OK (from family)
+15830:nam:cerebralize: OK (to make retroflex)
+15901:naravAhin:palankin: palanquin
+; scan error. also - 'palankeen'
+16025:nazwAsu:inaminate: inanimate
+; scan error
+16042:nahuzya:Nahusa: Nahuṣa
+16133:nAD:supplex: OK (Latin word which transleting "pleading, begging")
+16473:nimittakAraRa:causa: OK (Latin word, "causa efficiens" - one of‎ Aristotle's four causes)
+16473:nimittakAraRa:efficiens: OK
+; connects with previous item
+16556:nirayaRa:egression: OK
+16587:nirAgAra:shelterless: OK
+16730:nirnAsa:snubnosed: snub-nosed
+; scan error
+16888:nivanA:adown: OK
+; archaic, modern form is "down"
+17011:nizeDa:probition: prohibition
+; scan error
+17349:nezwra:Nestr: Neṣṭṛ
+17374:nEmizIya:Naimisa: Naimiṣa
+17382:nErukta:etymogically: etymologically
+; scan error
+17385:nErganDya:inodorousness: OK
+; archaic
+17440:nyaNga:somethiNg: something
+17440:nyaNga:cliNgiNg: clinging
+17440:nyaNga:adheriNg: adhering
+17443:nyaYcana:hidiNg: hiding
+17465:nyAsaDArin:depositary: OK
+17492:pakzadvAra:sideor: side- or
+17736:patAkin:flagbearer: flag-bearer
+17814:pad:insruction: instruction
+; scan error
+17814:pad:reddere: OK (Latin word) 
+17924:payoDara:wateror: water- or
+18036:parAjizRu:succumbent: OK
+18140:pariRadDa:encirled: encircled
+; scan error
+18143:pariRAma:od: food
+; scan error
+18207:paripUta:purifed: purified
+18400:parisrAva:fluxion: OK
+18484:parRamaya:Palaca: Palāśa
+18527:paryuzita:nightflat: night-flat
+18552:parvan:Caturmasya: Cāturmāsya
+18554:parvasaMDi:newand: new- and
+18703:pAkya:cookable: OK
+18790:pAtaYjala:PataYjali: Patañjali
+18954:pAraMparya:intermediation: OK
+18997:pArTa:Panduids: OK (descendants of Pāṇḍu)
+; maybe better to use "Pāṇḍavas"
+19582:puzkarAkza:lotusor: lotus- or
+19712:pUrvaka:ealier: earlier
+; scan error
+19906:pfzWya:packor: pack- or
+19954:pEppalAda:Pippalada: Pippalāda
+20004:pOtinAsikya:stencn: stench
+; scan error
+20151:pracAra:playor: play- or
+20258:pratardana:destoyer: destroyer
+; scan error
+20330:pratipakza:rivality: OK
+; synonym "rivalry"
+20393:pratimuKa:epitasis: OK
+20535:pratyaBivAda:regreet: OK
+; synonym "greet"
+20575:pratyASvAsana:recomforting: OK
+21102:prastara:stramentum: OK (Latin word translated - straw, litter/ thatch / packsaddle) 
+21463:prItimant:Priti: Prīti
+21533:prezya:manamp: man- &
+22070:bAhupASa:armfetter: arm-fetter
+22083:bAhulatA:armcreeper: arm-creeper
+22105:bindu:Anusvara: Anusvāra
+22135:bIja:seedcorn: seed-corn
+22661:BallUka:voung: young
+22691:Bavitavya:pred: OK (subj. & pred.) 
+23079:BUtasAkzin:Allseer: All-seer
+23180:BUriSfNga:manyor: many- or
+23283:BogAy:ringle: OK (metal ring, one placed in an animal's nose)
+23317:BOrja:birchen: OK (consisting of or made of the birch tree)
+23325:Bram:fasely: falsely
+; scan error
+23517:maRqalita:ringled: OK
+23562:matsara:exhilarater: exhilarator
+; scan error
+23782:manas:excogitation: OK
+23810:manu:suppositious: OK
+23905:mantrADirAja:Vetala: Vetāla
+24001:mayu:Kimpurusa: Kimpuruṣa
+24046:marqitf:pitier: OK
+24130:masfRay:smoothen: OK
+24183:mahAgala:longor: long- or
+24361:mahASaya:magnahimous: magnanimous
+24468:mA:optative: OK
+24468:mA:prohib: OK (prohib.)
+24679:mArakata:smaragdine: OK
+; synonym "emerald"
+24832:miT:altercate: OK
+24897:mI:recipr: OK (recipr.)
+24977:muKendu:moondisk: moon- (disk
+24998:muc:pourforth: pour forth
+25085:muh:ert: err
+; scan error. I am not sure. Also I corrected one more error in this item - "rr": "err"
+25113:mUrC:strenghten: strengthen
+25128:mUla:neighbourhoud: neighbourhood
+; scan error
+25153:mUzikaSAvaka:mousey: OK
+25370:merusarzapa:mustardseed: mustard seed
+; scan error
+25441:modaka:smeetmeat: sweetmeat
+; scan error
+25507:mlA:langish: languish
+; scan error
+25546:yaj:Prayaja: Prayāja
+25774:yaTAsaNgam:accordiNg: according
+25833:yam:excercise: exercise
+; scan error
+25911:yaSasvant:glourious: glorious
+; scan error
+26105:yuj:thill: OK
+26109:yuYj:yokefellow: OK
+26168:yena:quod: OK (Latin word)
+26197:yogISvara:Yajnavalkya: Yājñavalkya
+26347:raNG:raNGate: {#raNGate#}
+; it has to be Devanagari text in the body of this entry
+26604:ramaRa:serpentmaid: serpent-maid
+26620:ramBoru:plantainlike: plantain-like
+; I am not sure. maybe better to use "like plantain"  
+26744:rANkava:beloNgiNg: belonging
+27010:rikTin:bequeather: OK
+27078:ruj:dislimb: OK
+27105:ruD:shutup: shut up
+; scan error
+27105:ruD:withold: withhold
+; scan error
+27396:laNGanIya:transgressible: OK
+27461:laya:hebetating: OK
+27538:lApu:insrument: instrument
+; scan error
+27574:liKana:cratching: OK
+; obsolete word, modern form is "scratching"
+27696:loka:splace: space
+; scan error
+27992:vad:oversound: OK
+27992:vad:overspeak: OK
+28031:vaDUyu:uxurious: OK
+28035:vaDya:scape: scapegrace
+; scan error
+28039:vaDyaparyAya:excecute: execute
+; scan error
+28209:vara:fullfilled: fulfilled
+; scan error
+28262:varuRa:encompasser: OK (All-encompasser)
+28335:vartani:felloe: OK
+28642:vAkya:periphasis: periphrasis
+; scan error
+28699:vAja:Rbhus: Ṛbhus
+; scan error
+28821:vAma:sheass: she- (ass
+28892:vArAha:boarish: OK
+28918:vArivAha:raingod: rain-god
+29031:vAsAtya:dawny: OK
+29075:viMSa:twentifold: twentyfold
+; scan error
+29199:vikzepaSakti:projective: OK
+29284:vicikitsya:dubitable: OK
+; synonym "doubtful"
+29477:vidUzaka:defilling: defiling
+29801:viboDana:awaker: OK
+29801:viboDana:rouser: OK
+29823:viBAvana:rhetor: OK (rhetor. figure)
+29925:vimUQa:incertain: OK
+; synonym "uncertain"
+30047:vilambita:laggering: OK
+; synonyms "lagging", "lingering"
+30395:vizaDara:venomholder: venom-holder
+30463:vizkamBaka:supportiNg: supporting
+
+
 31054:veSyA:intranda:
 31093:vEjAtya:heterogeneousness:
 31200:vESva:Vicve:
