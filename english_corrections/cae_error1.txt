@@ -427,84 +427,132 @@ Batch 4
 30463:vizkamBaka:supportiNg: supporting
 
 
+Batch 5
 31054:veSyA:intranda:
-31093:vEjAtya:heterogeneousness:
-31200:vESva:Vicve:
-31349:vyAkaraRa:paration:
-31554:SaMs:recife:
-31960:Saravya:arrowshot:
-32048:Salalita:squills:
-32142:Sasman:enlogy:
-32192:SARa:grindor:
-32251:SAMBava:Cambhu:
-32252:SAmya:peae:
-32314:SAlihotra:hippology:
-32419:SitikaRWa:whiteor:
-32589:SiSumAra:childkilling:
-32687:SIrya:delible:
-32742:Sukla:spawl:
-32868:SuBASuBa:infortunate:
-32924:Suzmaya:boldening:
-32975:SUrasAti:batte:
-33238:SyAvadant:brownor:
-33423:Srutitas:reveiation:
-33618:zawka:hectade:
-33804:saMvasana:meetingor:
-33922:saMsfp:deitis:
-33937:saMstamBa:pertinacy:
-34035:sakft:semel:
-34035:sakft:olim:
-34064:sakzIra:lactescent:
-34217:saMgraha:totalily:
-34367:saMjYA:technic:
-34583:sadAsA:alwas:
-34622:sadyoarTa:quickling:
-34791:saMdeGa:conglutination:
-34907:sapatnakzayaRa:rivats:
-34919:saparicCada:chattles:
-34952:saptaka:heptade:
-34969:saptadaSaDA:seventeenfold:
-35266:samAna:similiar:
-35301:samAnAkzara:monophthong:
-35311:samAnta:confiner:
-35329:samAyukta:pepared:
-35376:samAsokti:succint:
-35376:samAsokti:compendiary:
-35417:samIpa:neihbourhood:
-35438:samuta:seqn:
-35557:saMpIqa:pression:
-35714:samyaYc:universus:
-35714:samyaYc:adversus:
-36106:saSalya:arrowpoint:
-36271:sahaskfta:strenghtened:
-36407:sahya:resistibls:
-36489:sAwopa:selfconceited:
-36652:sAmAnADikariRya:congruency:
-36876:sidDa:pertected:
-36978:su:assevering:
-37306:suDita:welldisposed:
-37886:sUd:agoing:
-37896:sUnAcakraDvajavant:oilmanufacturers:
-37896:sUnAcakraDvajavant:venders:
-38273:sKal:folter:
-38273:sKal:eor:
-38308:stambaja:tufty:
-38312:stamberama:grassbunches:
-38317:stamBaBaYjaka:pillarbreaker:
-38513:sTiti:maxime:
-38709:sma:asseverative:
-38733:smAram:rembrance:
-39076:svarmI|a:svarmIasvarmIas:
-39076:svarmI|a:svarmIasvarmIadj:
-39212:svAs:sharpedged:
-39252:svEra:pendence:
-39267:haMsacandrAMSu:sunand:
-39509:hasita:outvied:
-39510:haskartf:gratifier:
-39643:hiMsrAhiMsra:noxiousness:
-39647:hiNkf:hin:
-39656:hita:voce:
-39700:himavant:snowmountain:
-39778:hIqa:monisher:
-39830:hU:emoulously:
-39962:hEmana:winterly:
+; I could not find this word in any dictionary. Maybe "intrada" - but a meaning doesn't fit
+31093:vEjAtya:heterogeneousness: OK
+; synonym "heterogeneity"
+31200:vESva:Vicve: Viśve
+; scan error - "ś" looks like simple "c"
+31349:vyAkaraRa:paration: separation
+; scan error
+31554:SaMs:recife: recite
+; scan error
+31960:Saravya:arrowshot: arrow-shot
+32048:Salalita:squills: quills
+; scan error
+32142:Sasman:enlogy: eulogy
+32192:SARa:grindor: grind- or
+32251:SAMBava:Cambhu: Śaṃbhu
+; scan error, probably. I am not sure, better to recheck.
+32252:SAmya:peae: peace
+; scan error
+32314:SAlihotra:hippology: OK (study of horses)
+32419:SitikaRWa:whiteor: white- or
+32589:SiSumAra:childkilling: child-killing
+32687:SIrya:delible: OK
+; synonym "deletable"
+32742:Sukla:spawl: OK
+; archaic, modern form is "spittle", synonym is "saliva"
+32868:SuBASuBa:infortunate: OK
+; obsolete, modern form is "unfortunate"
+32924:Suzmaya:boldening: OK
+; synonym "emboldening"
+32975:SUrasAti:batte: battle
+; scan error
+33238:SyAvadant:brownor: brown- or
+33423:Srutitas:reveiation: revelation
+; scan error, letter "l" looks like "i"
+33618:zawka:hectade: OK 
+; scan error - probably. Greek prefix "hecto" defines 100. If we mean "an aggregate of six", should be "hexade" (Hexa - 6)
+33804:saMvasana:meetingor: meeting- or
+33922:saMsfp:deitis: deities
+; scan error
+33937:saMstamBa:pertinacy: OK
+; obsolete word, modern form is "pertinacity"
+34035:sakft:semel: OK (Latin word transleted as "once")
+34035:sakft:olim: OK (Latin word transleted as "once")
+34064:sakzIra:lactescent: OK (yielding a milky juice)
+34217:saMgraha:totalily: totality
+; scan error
+34367:saMjYA:technic: technical
+; scan error
+34583:sadAsA:alwas: always
+; scan error
+34622:sadyoarTa:quickling: quickly
+; scan error
+34791:saMdeGa:conglutination: OK
+34907:sapatnakzayaRa:rivats: rivals
+; scan error - letter "l" is not clear
+34919:saparicCada:chattles: OK
+; probably an alternative form is "chattels"
+34952:saptaka:heptade: OK (from Ancient Greek "hepta" - 7)
+34969:saptadaSaDA:seventeenfold: OK
+35266:samAna:similiar: similar
+; scan error
+35301:samAnAkzara:monophthong: OK
+35311:samAnta:confiner: OK
+; archaic
+35329:samAyukta:pepared: prepared
+; scan error
+35376:samAsokti:succint: succinct
+; scan error
+35376:samAsokti:compendiary: OK
+; alternative form is "compendious"
+35417:samIpa:neihbourhood: neighbourhood
+; scan error
+35438:samuta:seqn: sewn
+35557:saMpIqa:pression: OK
+; synonym "pressure
+35714:samyaYc:universus: OK (Latin word translates as "all, whole")
+35714:samyaYc:adversus: OK (Latin word translates as "against")
+36106:saSalya:arrowpoint: arrow-point
+36271:sahaskfta:strenghtened: strengthened
+; scan error
+36407:sahya:resistibls: resistible
+; scan error - letter "e" is not clear
+36489:sAwopa:selfconceited: self-conceited
+36652:sAmAnADikariRya:congruency: OK
+; alternative form is "congruence"
+36876:sidDa:pertected: perfected
+; scan error - letter "f" is not clear
+36978:su:assevering: OK
+; archaic, modern form is "asseverating"
+37306:suDita:welldisposed: well-disposed
+37886:sUd:agoing: a going
+; scan error
+37896:sUnAcakraDvajavant:oilmanufacturers: oil manufacturers
+; scan error
+37896:sUnAcakraDvajavant:venders: OK 
+; outdated spelling for "vendors"
+38273:sKal:folter: falter
+; scan error
+38273:sKal:eor: err
+; scan error - I am not sure
+38308:stambaja:tufty: OK
+38312:stamberama:grassbunches: grass-bunches
+38317:stamBaBaYjaka:pillarbreaker: pillar-breaker
+38513:sTiti:maxime: OK (French word, translated as "maxim")
+38709:sma:asseverative: OK
+38733:smAram:rembrance: remembrance
+; scan error
+39076:svarmI|a:svarmIasvarmIas: as
+; I have corrected  cae.txt according to the scan, but better to recheck
+39076:svarmI|a:svarmIasvarmIadj: adj.
+; connects with the previous case
+39212:svAs:sharpedged: sharp-edged
+39252:svEra:pendence: independence
+; scan error
+39267:haMsacandrAMSu:sunand: sun- and
+39509:hasita:outvied: OK
+39510:haskartf:gratifier: OK
+39643:hiMsrAhiMsra:noxiousness: OK
+39647:hiNkf:hin: hiṅ
+; This case in cae.txt had some more errors. I did correction, please, double-check
+39656:hita:voce: OK ("sub voce" - under the word or heading that has been specified )
+39700:himavant:snowmountain: snow-mountain
+39778:hIqa:monisher: OK
+; archaic, synonym "admonisher"
+39830:hU:emoulously: emulously
+; scan error
+39962:hEmana:winterly: OK
