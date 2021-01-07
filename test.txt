@@ -1,1 +1,2 @@
 A simple test file of text.
+Another line.
