@@ -4,35 +4,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**CAE** is the corrections and research repository for the Cologne digitization of Cappeller's *Sanskrit-English Dictionary* (1891). The canonical source lives in `csl-orig/v02/cae/cae.txt`.
+This is a Sanskrit dictionary digitization and corrections repository in the Sanskrit Lexicon project.
 
-## Architecture
+## GitHub Issue Conventions
 
-| Directory | Purpose |
-|---|---|
-| `verbs01/` | Root identification: maps CAE verb entries to MW root spellings, identifies prefixed verbs |
-| `english_corrections/` | English word spell-check error analysis |
+All issues must have:
+- **Type**: exactly one label (link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question)
+- **Severity**: exactly one label (minor, medium, hard)
+- **Milestone**: one of (Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements)
 
-### Verb root pipeline (`verbs01/`)
-
-Identifies Cappeller verb entries and maps them to their MW equivalents, with preverb (upasarga) resolution. See [CAE issue #1](https://github.com/sanskrit-lexicon/CAE/issues/1).
-
-Issues and corrections are tracked via the [GitHub issue tracker](https://github.com/sanskrit-lexicon/CAE/issues).
-
-## Common Commands
-
-### Apply line-level corrections (standard pattern)
-```bash
-python updateByLine.py <input_file> <changein_file> <output_file>
-```
-
-### Rebuild and validate XML (from `csl-pywork/v02/`)
-```bash
-sh generate_dict.sh cae ../../CAEScan/2020
-sh xmlchk_xampp.sh cae
-```
-
-## Dependencies
-
-- **Python 3**
-- **cae.txt** — in `$BASE/cologne/csl-orig/v02/cae/cae.txt`
+See the Sanskrit Lexicon runbook for full definitions.
