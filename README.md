@@ -16,6 +16,22 @@ By the same author as CCS (the German *Sanskrit-Wörterbuch*); the two are close
 |---|---|
 | `english_corrections/` | `english_corrections/` working files |
 | `verbs01/` | Verb identification: maps verb entries to MW roots, with Devanāgarī renderings |
+| `prefaces/` | Front-matter OCR (title, dedication, preface, abbreviations) with EN + RU — see [Front matter](#front-matter-prefaces) |
+
+## Front matter (`prefaces/`)
+
+Faithful OCR + Russian translation of the dictionary's **front matter** — title, dedication (to William Dwight Whitney), the three-page Preface (signed *Jena, March 1891*), and the List of Abbreviations — from the Cologne scans. Source language is **English**, so the base per-page `.md` is the English edition and each page also has a `.ru.md`.
+
+- Cologne source: <https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/caepref.html>
+- Consolidated editions: [prefaces/caepref_all.en.md](prefaces/caepref_all.en.md) · [prefaces/caepref_all.ru.md](prefaces/caepref_all.ru.md)
+- In-folder index: [prefaces/README.md](prefaces/README.md)
+
+<details>
+<summary><strong>OCR run notes (2026-06-23)</strong></summary>
+
+Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). 6 pages, English source + Russian. The Preface explains the scope and the `r̥`/bracket conventions; page 06 is the three-column List of Abbreviations + a symbol legend, transcribed verbatim. This dictionary's pages were completed on the main thread after background OCR agents repeatedly hit a (spurious/transient) content-filter API error on the same page — which did **not** recur on the main thread.
+
+</details>
 
 ## Timeline
 
@@ -24,6 +40,7 @@ By the same author as CCS (the German *Sanskrit-Wörterbuch*); the two are close
 | 2020 | Repository activity begins (first tracked issues) |
 | 2021–2021 | Ongoing corrections, markup, and comparison work |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
+| 2026-06 | Front-matter OCR + EN/RU translation of the prefaces (`prefaces/`) |
 
 ## Projects & Milestones
 
