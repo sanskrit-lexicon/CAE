@@ -1,5 +1,7 @@
 # CAE — Cappeller *A Sanskrit-English Dictionary* (1891)
 
+_Created: 16-05-2026 · Last updated: 05-07-2026_
+
 Development and correction repository for **Carl Cappeller's *A Sanskrit-English Dictionary, Based upon the St. Petersburg Lexicons***, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/cae/cae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/cae/cae.txt) (38,484 entries); this repository holds the development, correction, and enrichment work.
 
 By the same author as CCS (the German *Sanskrit-Wörterbuch*); the two are close siblings.
@@ -17,6 +19,28 @@ By the same author as CCS (the German *Sanskrit-Wörterbuch*); the two are close
 | `english_corrections/` | `english_corrections/` working files |
 | `verbs01/` | Verb identification: maps verb entries to MW roots, with Devanāgarī renderings |
 | `prefaces/` | Front-matter OCR (title, dedication, preface, abbreviations) with EN + RU — see [Front matter](#front-matter-prefaces) |
+
+## Usage example
+
+A real entry from [`csl-orig/v02/cae/cae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/cae/cae.txt) — line 56, the "aMsala" entry:
+
+```
+56:{#aMsala/#}¦ <lex>a.</lex> strong, stout.
+```
+
+To correct the English gloss (e.g. add a missing comma-separated sense, `strong, stout` → `strong, sturdy, stout`), write a paired-line change file and apply it with `updateByLine.py`:
+
+```
+; issueNNN: add missing sense to "aMsala" gloss
+56 old {#aMsala/#}¦ <lex>a.</lex> strong, stout.
+56 new {#aMsala/#}¦ <lex>a.</lex> strong, sturdy, stout.
+```
+
+```sh
+python updateByLine.py cae.txt change_56.txt cae_corrected.txt
+```
+
+(Illustrative — no actual defect at this line; the workflow above is exact, only the fictitious added sense is invented to demonstrate the change-file mechanics.)
 
 ## Front matter (`prefaces/`)
 
@@ -148,3 +172,5 @@ flowchart LR
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
