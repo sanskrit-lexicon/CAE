@@ -21,6 +21,28 @@ By the same author as CCS (the German *Sanskrit-Wörterbuch*); the two are close
 | [verbs01/](https://github.com/sanskrit-lexicon/CAE/tree/main/verbs01) | Verb identification: maps verb entries to MW roots, with Devanāgarī renderings |
 | [prefaces/](https://github.com/sanskrit-lexicon/CAE/tree/main/prefaces) | Front-matter OCR (title, dedication, preface, abbreviations) with EN + RU — see [Front matter](#front-matter-prefaces) |
 
+## Usage example
+
+A real entry from [csl-orig/v02/cae/cae.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/cae/cae.txt) — line 56, the "aMsala" entry:
+
+```
+56:{#aMsala/#}¦ <lex>a.</lex> strong, stout.
+```
+
+To correct the English gloss (e.g. add a missing comma-separated sense, `strong, stout` → `strong, sturdy, stout`), write a paired-line change file and apply it with `updateByLine.py`:
+
+```
+; issueNNN: add missing sense to "aMsala" gloss
+56 old {#aMsala/#}¦ <lex>a.</lex> strong, stout.
+56 new {#aMsala/#}¦ <lex>a.</lex> strong, sturdy, stout.
+```
+
+```sh
+python updateByLine.py cae.txt change_56.txt cae_corrected.txt
+```
+
+(Illustrative — no actual defect at this line; the workflow above is exact, only the fictitious added sense is invented to demonstrate the change-file mechanics.)
+
 ## Front matter (prefaces/)
 
 Faithful OCR + Russian translation of the dictionary's **front matter** — title, dedication (to William Dwight Whitney), the three-page Preface (signed *Jena, March 1891*), and the List of Abbreviations — from the Cologne scans. Source language is **English**, so the base per-page `.md` is the English edition and each page also has a `.ru.md`.
