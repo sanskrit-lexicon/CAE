@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: cae_Page_013_Image_0002.png
 source_page: Preface, 3
@@ -16,3 +18,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 Йена, март 1891 г.
 
 К. Каппеллер.
+
+_Dr. Mārcis Gasūns_

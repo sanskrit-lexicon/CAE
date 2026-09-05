@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `caeprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `caeprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -145,3 +147,5 @@ KARL J. TRÜBNER.
 - °…° то же, если оно также преподаётся грамматистами или лексикографами.
 - †…. слово, которое, хотя и не имеет ударения, встречается в тексте, в остальном снабжённом ударениями.
 - …† слово, для которого ранее данное ударение не должно подставляться.
+
+_Dr. Mārcis Gasūns_

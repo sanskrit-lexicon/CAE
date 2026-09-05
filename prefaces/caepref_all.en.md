@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English)
 
-Per-page files: `caeprefNN.md`. Index: [README.md](README.md).
+Per-page files: `caeprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -150,3 +152,5 @@ C. Cappeller.
 - °…° the same, if also taught by grammarians or lexicographers.
 - †…. a word which, although not accented, occurs in an otherwise accented text.
 - …† a word for which a previously given accent is not to be supplied.
+
+_Dr. Mārcis Gasūns_

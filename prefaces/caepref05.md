@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: cae_Page_013_Image_0002.png
 source_page: Preface, 3
@@ -14,3 +16,5 @@ Before I conclude, I must express my profound gratitude first to the venerable e
 Jena, March 1891.
 
 C. Cappeller.
+
+_Dr. Mārcis Gasūns_

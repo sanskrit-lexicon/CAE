@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: cae_Page_014_Image_0002.png
 source_page: List of Abbreviations
@@ -53,3 +55,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 - °…° the same, if also taught by grammarians or lexicographers.
 - †…. a word which, although not accented, occurs in an otherwise accented text.
 - …† a word for which a previously given accent is not to be supplied.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # CAE front matter (prefaces)
 
 Faithful OCR + translation of the **front matter** of **Carl Cappeller's *A Sanskrit-English Dictionary, Based upon the St. Petersburg Lexicons*** (Strassburg: Karl J. Trübner, **1891**). The dictionary is dedicated to William Dwight Whitney.
@@ -20,21 +22,23 @@ Source scans (Cologne Digital Sanskrit Dictionaries):
 
 | Edition | File |
 |---|---|
-| English (complete) | [caepref_all.en.md](caepref_all.en.md) |
-| Russian (complete) | [caepref_all.ru.md](caepref_all.ru.md) |
+| English (complete) | [caepref_all.en.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref_all.en.md) |
+| Russian (complete) | [caepref_all.ru.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref_all.ru.md) |
 
 ## Contents
 
 | # | Section | Vol. | Source | RU |
 |---|---|---|---|---|
-| 01 | Title | 1 | [caepref01.md](caepref01.md) | [ru](caepref01.ru.md) |
-| 02 | Dedication | 1 | [caepref02.md](caepref02.md) | [ru](caepref02.ru.md) |
-| 03 | Preface, 1 | 1 | [caepref03.md](caepref03.md) | [ru](caepref03.ru.md) |
-| 04 | Preface, 2 | 1 | [caepref04.md](caepref04.md) | [ru](caepref04.ru.md) |
-| 05 | Preface, 3 | 1 | [caepref05.md](caepref05.md) | [ru](caepref05.ru.md) |
-| 06 | List of Abbreviations | 1 | [caepref06.md](caepref06.md) | [ru](caepref06.ru.md) |
+| 01 | Title | 1 | [caepref01.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref01.md) | [ru](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref01.ru.md) |
+| 02 | Dedication | 1 | [caepref02.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref02.md) | [ru](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref02.ru.md) |
+| 03 | Preface, 1 | 1 | [caepref03.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref03.md) | [ru](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref03.ru.md) |
+| 04 | Preface, 2 | 1 | [caepref04.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref04.md) | [ru](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref04.ru.md) |
+| 05 | Preface, 3 | 1 | [caepref05.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref05.md) | [ru](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref05.ru.md) |
+| 06 | List of Abbreviations | 1 | [caepref06.md](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref06.md) | [ru](https://github.com/sanskrit-lexicon/CAE/blob/main/prefaces/caepref06.ru.md) |
 
 ## Notes
 
 - The Preface (signed *Jena, March 1891, C. Cappeller*) explains the scope (a wider range of texts than the German original), the reliance on Whitney's *Roots* and Lanman's *Reader*, the use of `r̥` for vocalic *r*, and the bracket/symbol conventions.
 - Page 06 is the three-column **List of Abbreviations** (p. VIII) plus a legend of accent/compound symbols, transcribed verbatim.
+
+_Dr. Mārcis Gasūns_
