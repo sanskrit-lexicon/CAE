@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **CAE** is the development and correction repository for **Carl Cappeller's *A Sanskrit-English Dictionary, Based upon the St. Petersburg Lexicons***, a Sanskrit→English dictionary, within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/cae/cae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/cae/cae.txt) (38,484 entries) — corrections are applied to that file, not stored here.
+- **Canonical source text**: [`csl-orig/v02/cae/cae.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/cae/cae.txt) (38,484 entries) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: corrections, markup, comparison, and per-issue working files.
 - By the same author as CCS (the German *Sanskrit-Wörterbuch*); the two are close siblings.
 

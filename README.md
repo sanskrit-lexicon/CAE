@@ -2,7 +2,7 @@
 
 _Created: 16-05-2026 · Last updated: 11-07-2026_
 
-Development and correction repository for **Carl Cappeller's *A Sanskrit-English Dictionary, Based upon the St. Petersburg Lexicons***, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [csl-orig/v02/cae/cae.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/cae/cae.txt) (38,484 entries); this repository holds the development, correction, and enrichment work.
+Development and correction repository for **Carl Cappeller's *A Sanskrit-English Dictionary, Based upon the St. Petersburg Lexicons***, a Sanskrit→English dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [csl-orig/v02/cae/cae.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/cae/cae.txt) (38,484 entries); this repository holds the development, correction, and enrichment work.
 
 By the same author as CCS (the German *Sanskrit-Wörterbuch*); the two are close siblings.
 
@@ -23,7 +23,7 @@ By the same author as CCS (the German *Sanskrit-Wörterbuch*); the two are close
 
 ## Usage example
 
-A real entry from [csl-orig/v02/cae/cae.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/cae/cae.txt) — line 56, the "aMsala" entry:
+A real entry from [csl-orig/v02/cae/cae.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/cae/cae.txt) — line 56, the "aMsala" entry:
 
 ```
 56:{#aMsala/#}¦ <lex>a.</lex> strong, stout.
